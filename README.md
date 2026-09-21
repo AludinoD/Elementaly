@@ -2,7 +2,7 @@
 A NaN(Not a Number) Calculator Application made in Android Studios.
 > **Status Notice:** This project is discontinued and will no longer be actively updated or maintained.
 ---
-This application is made for a University Project. In this app, you mix different elements together to create a new one. However, there are only a limited number of elements that you can mix as this is only a short app. This is just a project made for fun and does not really have other benefits other than entertainment.
+This application was created as a part of a University Project. In this app, you mix different elements together to create new ones. However, there are only a limited number of elements that can be combined, as this is a short project. The application was made purely for fun and entertainment, and it does not have any major practical benefits beyond providing an enjoyable experience for users.
 
 ## Project Structure
 * `app/` - Contains the source code, layouts, and app-level resources.
